@@ -2,11 +2,11 @@
 
 // Step 1: Declare a let variable named 'counter' and initialize it with the value 10.
 // Write your code below
-
+let counter = 10; 
 
 // Step 2: Increment the value of 'counter' by 2 using the += operator.
 // Write your code below
-
+counter += 2; 
 
 
 console.log(`The value of counter is ${counter}`);
