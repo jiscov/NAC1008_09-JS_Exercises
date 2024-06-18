@@ -2,7 +2,7 @@
 
 // Step 1: Declare an array named 'fruits' with values 'Apple', 'Banana', and 'Orange'.
 // Write your code below
-
+const fruits = ['Apple', 'Banana', 'Orange']; 
 
 
 console.log(fruits);
