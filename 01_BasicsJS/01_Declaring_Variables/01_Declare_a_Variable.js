@@ -3,7 +3,7 @@
 // Declare a const variable named 'favoriteFruit'
 // and assign it the value of your favorite fruit, example 'apple'.
 // Write your code below
-
+const favoriteFruit = 'apple'; 
 
 
 console.log(`I like: `, favoriteFruit);
