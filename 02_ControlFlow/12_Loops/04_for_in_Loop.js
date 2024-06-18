@@ -3,13 +3,17 @@
 // Step 1: Declare an object 'person' with properties 'name', 'age', and 'city'.
   // The properties value should be set with the values 'John', 25, and 'New York'.
 // Write your code below
-
+const obj = {
+  name: 'John',
+  age: 25,
+  city: 'New York',
+}; 
 
 // Step 2: Use a for...in loop to log each property and its value.
 // Hint: for (key in object) {log}
 // Write your code below
-for () {
-  console.log(key + ': ' + person[key]);
+for (person in obj) {
+  console.log(person + ': ' + obj[person]);
 }
 
 
