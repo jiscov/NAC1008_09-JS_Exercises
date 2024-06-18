@@ -4,7 +4,11 @@
   // Assign values to these properties: 'John', 30, and 'true'.
   // Remember, an object is between curly braces.
 // Write your code below
-
+const person = {
+  firstname: 'John',
+  age: 30,
+  isActive: true
+}; 
 
 
 console.log(person);
