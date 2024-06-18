@@ -2,7 +2,7 @@
 
 // Step 1: Declare a variable named 'isSunny' and assign it the value 'true'.
 // Write your code below
-
+const isSunny = 'true'; 
 
 
 // Don't change the code below
