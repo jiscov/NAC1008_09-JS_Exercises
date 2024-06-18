@@ -4,10 +4,10 @@
     // Assign values to these variables: 'John Doe', 30, and 'Canada';
     // The variables declaration should be on the same line. 
 // Write your code below
+let fullname = 'John Doe', age = 30, country = 'Canada'; 
 
 
-
-console.log(`I know ${firstname}, he is ${age} years old and he lives in ${country}.`);
+console.log(`I know ${fullname}, he is ${age} years old and he lives in ${country}.`);
 // Expected Output: I know John Doe, he is 30 years old and he lives in Canada.
 
 
