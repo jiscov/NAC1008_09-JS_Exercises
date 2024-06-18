@@ -2,13 +2,13 @@
 
 // Step 1: Declare a variable 'temperature' with the value 28.
 // Write your code below
-
+const temperature = 28; 
 
 // Step 2: Use the ternary operator to set a variable 'weather' to a string,
     // 'Hot' if the temperature is greater than or equal to 30,
     // 'Warm' otherwise.
 // Write your code below
-
+const weather = temperature >= 30 ? 'Hot' : 'Warm'; 
 
 console.log(weather);
 // Expected Output: Warm
