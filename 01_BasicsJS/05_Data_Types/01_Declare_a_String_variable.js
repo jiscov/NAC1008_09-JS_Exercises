@@ -2,7 +2,7 @@
 
 // Step 1: Declare a variable named 'favoriteColor' and assign it the value 'blue'.
 // Write your code below
-
+const favoriteColor = 'blue'; 
 
 
 // Don't change the code below
