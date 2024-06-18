@@ -2,7 +2,7 @@
 
 // Step 1: Declare a variable named 'nullVar' and assign it the value 'null'.
 // Write your code below
-
+const nullVar = null; 
 
 
 // Don't change the code below
