@@ -2,7 +2,7 @@
 
 // Step 1: Declare a variable named 'numApples' and assign it the value 5.
 // Write your code below
-
+const numApples = 5; 
 
 
 // Don't change the code below
