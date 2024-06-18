@@ -3,7 +3,7 @@
 // Step 1: Declare a const variable named 'daysInMonth'
 // and assign it the value 30.
 // Write your code below
-
+const daysInMonth = 30; 
 
 
 console.log(`There is ${daysInMonth} days in a month.`);
@@ -12,7 +12,7 @@ console.log(`There is ${daysInMonth} days in a month.`);
 
 // Step 2: Attempt to update the value of 'daysInMonth' to 25.
 // Write your code below
-
+daysInMonth = 25; 
 
 
 console.log(`There is ${daysInMonth} days in a month.`);
