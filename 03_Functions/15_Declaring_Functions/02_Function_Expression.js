@@ -3,7 +3,9 @@
 // Step 1: Declare a function expression named 'multiplyNumbers' that takes two parameters, 'x' and 'y', and returns their product.
   // Hint: const z = functionName(x, y) { return ...; }
 // Write your code below
-
+const multiplyNumbers = function(x, y) {
+  return x * y; 
+}
 
 
 console.log(multiplyNumbers(2,3))
