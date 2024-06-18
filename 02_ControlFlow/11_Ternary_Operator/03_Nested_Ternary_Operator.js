@@ -2,7 +2,8 @@
 
 // Step 1: Declare two variables, 'isWeekend' with the value 'false' and 'time' with the value 'morning'.
 // Write your code below
-
+const isWeekend = false; 
+const time = 'morning'; 
 
 // Step 2: Use nested ternary operators to set a variable 'greeting' to
     // 'Enjoy your weekend' if it is the weekend,
@@ -12,7 +13,7 @@
     // Hint: Ternary operators are similar to if-else statements but written in a shorter way: 
     // variable = (condition) ? value1 if true : (new condition) ? value2 if true : value3 if false
 // Write your code below
-
+const greeting = isWeekend ? 'Enjoy your weekend' : time ? 'Good morning' : 'Good day'; 
 
 console.log(greeting);
 // Expected Output: Good morning
