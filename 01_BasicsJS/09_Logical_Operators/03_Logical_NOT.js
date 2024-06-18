@@ -2,12 +2,12 @@
 
 // Step 1: Declare a variable 'isRaining' with the value 'true'.
 // Write your code below
-
+let isRaining = true; 
 
 // Step 2: Declare a variable named 'isNotRaining' and 
     // use the logical NOT operator '!' on 'isRaining' to check if it is not raining.
 // Write your code below
-
+const isNotRaining = !isRaining; 
 
 
 console.log(isNotRaining);
