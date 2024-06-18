@@ -2,12 +2,13 @@
 
 // Step 1: Declare two variables, 'countA' with the value 30 and 'countB' with the value 40.
 // Write your code below
-
+let countA = 30; 
+let countB = 40; 
 
 // Step 2: Declare a variable named 'isLessOrEqual' and 
     // use the less than or equal to operator '<=' to check if 'countA' is less than or equal to 'countB'.
 // Write your code below
-
+const isLessOrEqual = countA <= countB; 
 
 
 console.log(isLessOrEqual);
