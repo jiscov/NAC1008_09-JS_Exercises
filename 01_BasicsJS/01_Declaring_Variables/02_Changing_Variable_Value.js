@@ -3,7 +3,7 @@
 // Step 1: Declare a let variable named 'currentTemperature'
 // and assign it the value 25.
 // Write your code below
-
+let currentTemperature = 25;
 
 
 console.log(`The current temperature is: `, currentTemperature);
@@ -12,7 +12,7 @@ console.log(`The current temperature is: `, currentTemperature);
 
 // Step 2: Update the value of 'currentTemperature' to 30.
 // Write your code below
-
+currentTemperature = 30; 
 
 
 console.log(`Now the current temperature is: `,currentTemperature);
